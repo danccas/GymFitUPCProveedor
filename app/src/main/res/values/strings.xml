@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">GYMFIT</string>
+
+    <!-- Intent extras -->
+    <string name="auth_token">auth_token</string>
+    <string name="password_reset_info">Le\'hemos enviado por correo electrónico instrucciones para configurar su contraseña. Si existe una cuenta
+        con el correo electrónico que ingresaste.
+        Debería recibirlos en breve. Si no recibe\' un correo electrónico, \'asegúrese de haber ingresado la dirección
+        registrado con,
+        y revisa tu carpeta de spam.
+    </string>
+    <string name="password_reset_email_sent">Correo electrónico de restablecimiento de contraseña enviadot</string>
+    <string name="return_to_launcher_fragment">Return</string>
+    <string name="text_error">Error</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="email_field">Correo Electronico</string>
+    <string name="field_password">Contraseña</string>
+    <string name="field_login">Login</string>
+    <string name="field_username">Usuario</string>
+    <string name="field_confirm_password">Confirm Contraseña</string>
+    <string name="field_register">Register</string>
+    <string name="network_error_response">Error</string>
+    <string name="account">Perfil</string>
+    <string name="logout">Logout</string>
+    <string name="mis_sedes">Mis Sedes</string>
+    <string name="principal">Principal</string>
+    <string name="create_gym">Nuevo Gimnasio</string>
+    <string name="skip_intro">Saltar</string>
+    <string name="next">Siguiente</string>
+
+    <string name="fragment_create_blog">Create</string>
+    <string name="fragment_update_blog">Update</string>
+    <string name="fragment_view_blog">View</string>
+    <string name="fragment_account">Account</string>
+    <string name="fragment_change_password">Change password</string>
+    <string name="fragment_blog">Blog</string>
+    <string name="save_changes">Save changes</string>
+    <string name="fragment_update_account">Update account</string>
+    <string name="arg_email">arg_email</string>
+    <string name="arg_username">arg_username</string>
+    <string name="enter_a_username">Enter a username</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="confirm_new_password">Confirma Contraseña Nueva</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="change_password">Cambia la contraseña</string>
+    <string name="your_email">Your email</string>
+    <string name="your_username">Your username</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="update_password">Actualiza contraseña</string>
+    <string name="filter_asc">ASC</string>
+    <string name="filter_desc">DESC</string>
+    <string name="filter_author">Distancia</string>
+    <string name="filter_date">Gimnasio</string>
+    <string name="asc_desc">Ordenar Asc o Desc</string>
+    <string name="author_or_date">Filtrado por</string>
+    <string name="filter_options">Opciones</string>
+    <string name="publish">Publish</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_yes">yes</string>
+    <string name="are_you_sure_publish">Are you sure you want to publish this?</string>
+    <string name="are_you_sure_delete">Are you sure you want to delete this? This can\'t be un-done.</string>
+    <string name="text_info">Info</string>
+    <string name="delete">Delete</string>
+
+    <string name="AuthNavHost">AuthNavHost</string>
+    <string name="AccountFragmentFactory">AccountFragmentFactory</string>
+    <string name="BlogFragmentFactory">BlogFragmentFactory</string>
+    <string name="CreateBlogFragmentFactory">CreateBlogFragmentFactory</string>
+
+    <string name="forgot_password">Forgot Password</string>
+    <string name="launcher">Launcher</string>
+    <string name="login">Login</string>
+    <string name="text_login">Iniciar sesión</string>
+    <string name="text_register">Registrarse</string>
+    <string name="text_forgot_password">Se te olvidó tu contraseña</string>
+    <string name="process_death_state">process_death_state</string>
+    <string name="invalid_login_credentials">Invalid login</string>
+    <string name="maps">Mapas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fragment_chatbot">Chat Bot</string>
+    <string name="bot">Bot</string>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
